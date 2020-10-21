@@ -1,0 +1,21 @@
+@startwbs
+* Auber
+** Requirements
+*** Investigate similar products
+*** Investigate game frameworks
+*** Conduct interviews
+*** Write up Requirements
+** Architecture
+*** Design interfaces
+*** Design backend layout
+** Method Selection
+*** Establish VCS & tools
+*** Decide on lifecycle & methods
+*** Decide due dates
+** Risks
+*** Invesitgate risks
+*** Document Risks
+** Implementation
+*** Create systems
+*** Create GUI
+@endwbs
