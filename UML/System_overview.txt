@@ -1,0 +1,23 @@
+@startwbs
+* Auber
+** GUIs
+*** Main Menu
+**** Play
+**** Help
+**** Exit
+*** End Screen
+**** Victory/Loss
+**** Play Again
+**** Exit
+** Rooms
+*** Brig
+*** Infirmary
+*** Teleport
+*** Admin
+*** Bridge
+*** Engine Room
+** Entity
+*** Player
+*** NPC
+*** Alien
+@endwbs
